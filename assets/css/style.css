@@ -153,3 +153,7 @@ div>p{
     text-indent: 2em;
     line-height: 30px;
 }
+
+p.source{
+	color:gray;
+}
